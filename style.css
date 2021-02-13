@@ -1,0 +1,16 @@
+body{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas1 {
+    position: absolute;
+    border: 2px solid black;
+    background: teal;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
